@@ -17,3 +17,4 @@ If you have MySQL issues try this:
 
 in sudo nano /etc/mysql/my.cnf:
 port = 3306
+# raspberrypi
